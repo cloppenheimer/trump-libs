@@ -4,4 +4,4 @@ Live at https://trump-libs.github.io/
 
 An interactive Mad Libs game. Enter three words and see them become part of a Trump tweet!
 
-Built as a group project for Web Programming in Spring 2017.
+Built as a group project for Web Programming in Spring 2017. I contributed all of the server-side code and MongoDB integration.  
